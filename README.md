@@ -95,5 +95,4 @@ This project is for educational and portfolio purposes. In a real-world banking 
 
 -----
 
-**Author:** Sri
-*OCI 2025 Certified Generative AI Professional*
+**Author:** Sri Harshitha
