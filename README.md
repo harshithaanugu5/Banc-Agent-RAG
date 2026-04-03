@@ -89,10 +89,5 @@ Banc-Agent-RAG/
 4.  **Loop:** If the Auditor finds missing info, it sends a request back to the Analyzer for a more specific search.
 5.  **Output:** A final underwriting recommendation (Approve/Flag/Decline) with source citations.
 
-## 🛡️ Disclaimer
-
-This project is for educational and portfolio purposes. In a real-world banking environment, all AI-generated underwriting decisions must be reviewed by a certified human underwriter.
-
------
 
 **Author:** Sri Harshitha
